@@ -1,3 +1,4 @@
 # Character-recognition-artificial-intelligence-model-implemented-on-Android-phones
 
-![image](https://user-images.githubusercontent.com/71255601/230311260-419ba1c4-f43c-45cc-b84b-2fa8b25a88a7.png)
+
+![image](https://user-images.githubusercontent.com/71255601/230311448-11655ccb-3f0c-46c4-9156-ca2bdc12e8fd.png)
